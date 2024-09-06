@@ -5,12 +5,12 @@ Objective: Prediction of iPhone purchasing intention based on demographic attrib
 ### Software used:
 Python
 ### Tools used:
-Jupyter Notebook
-Tableau
+1. Jupyter Notebook
+2. Tableau
 ## Project 6: House prices prediction in Bengaluru
 Objective: Prediction of house prices based on property attributes as well as geographic areas.
 ### Software used:
 Python
 ### Tools used:
-Jupyter Notebook
-Tableau
+1. Jupyter Notebook
+2. Tableau
